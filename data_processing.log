@@ -1,0 +1,167 @@
+2024-08-06 15:05:23,401 - INFO - Database connection successful.
+2024-08-06 15:05:23,402 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:05:27,068 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:05:27,680 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:05:29,682 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:05:32,249 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:05:34,378 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:05:36,621 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:05:38,184 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/01e8868d-48ae-41aa-8516-ea5a303758b8.json
+2024-08-06 15:05:40,750 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/013585af-ba0a-480a-8f2f-48df896d9229.json
+2024-08-06 15:05:42,397 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0165e5d7-51e6-4c2e-a382-1dd1e706f7bb.json
+2024-08-06 15:05:59,063 - INFO - Database connection successful.
+2024-08-06 15:05:59,063 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:06:00,323 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:06:00,982 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:06:03,052 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:06:09,414 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:06:11,396 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:06:13,656 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:06:15,281 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/01e8868d-48ae-41aa-8516-ea5a303758b8.json
+2024-08-06 15:06:17,931 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/013585af-ba0a-480a-8f2f-48df896d9229.json
+2024-08-06 15:06:19,576 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0165e5d7-51e6-4c2e-a382-1dd1e706f7bb.json
+2024-08-06 15:06:21,354 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/04e8bb1e-b445-40a6-a68a-1ce85e32d229.json
+2024-08-06 15:06:23,979 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/042a4478-fe19-4ed0-a309-b96da3542a95.json
+2024-08-06 15:06:28,504 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/053f26a4-8fac-4733-a114-a6c0bdfd1e1c.json
+2024-08-06 15:06:30,550 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0733f160-8e52-4548-a4c8-19a1cfb41d0d.json
+2024-08-06 15:06:32,149 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/08af4546-b6e5-4cdc-ab0f-d5290dec8307.json
+2024-08-06 15:06:34,157 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/08c5fe06-4375-4fce-a555-b02352cef2d6.json
+2024-08-06 15:06:35,961 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1b2b6e15-3655-4648-afcb-c93214187736.json
+2024-08-06 15:07:20,435 - INFO - Database connection successful.
+2024-08-06 15:07:20,435 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:07:21,609 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:07:22,212 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:07:24,214 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:07:26,690 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:07:28,708 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:07:30,934 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:08:51,849 - INFO - Database connection successful.
+2024-08-06 15:08:51,849 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:08:53,092 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:08:53,714 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:08:55,761 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:08:58,292 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:09:00,332 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:09:02,610 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:09:04,166 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/01e8868d-48ae-41aa-8516-ea5a303758b8.json
+2024-08-06 15:09:07,029 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/013585af-ba0a-480a-8f2f-48df896d9229.json
+2024-08-06 15:09:08,653 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0165e5d7-51e6-4c2e-a382-1dd1e706f7bb.json
+2024-08-06 15:09:10,426 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/04e8bb1e-b445-40a6-a68a-1ce85e32d229.json
+2024-08-06 15:09:14,979 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/042a4478-fe19-4ed0-a309-b96da3542a95.json
+2024-08-06 15:09:17,185 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/053f26a4-8fac-4733-a114-a6c0bdfd1e1c.json
+2024-08-06 15:09:19,185 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0733f160-8e52-4548-a4c8-19a1cfb41d0d.json
+2024-08-06 15:09:20,782 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/08af4546-b6e5-4cdc-ab0f-d5290dec8307.json
+2024-08-06 15:09:22,746 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/08c5fe06-4375-4fce-a555-b02352cef2d6.json
+2024-08-06 15:09:24,452 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1b2b6e15-3655-4648-afcb-c93214187736.json
+2024-08-06 15:09:28,963 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1c4e9e86-eff3-485f-aa1d-1bff68101b14.json
+2024-08-06 15:09:30,678 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1d87d97f-b67b-499e-b9c2-3b096c949f81.json
+2024-08-06 15:09:33,623 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1edd5ee1-7c91-4233-840a-6c419d6afc62.json
+2024-08-06 15:09:35,496 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/2af530f6-7486-4a15-aa87-248d0c0b1e9f.json
+2024-08-06 15:09:37,975 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/2e7a515f-c380-4915-a505-9568ccc00d22.json
+2024-08-06 15:09:39,818 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/2e29b34e-9558-46ba-96b2-211295ece344.json
+2024-08-06 15:09:41,936 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/2ebc21a4-5635-4a7d-9553-ec5f58be0ee6.json
+2024-08-06 15:09:43,805 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/2ec1f538-1915-4636-8b38-101cb1efce5e.json
+2024-08-06 15:09:45,844 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/3dd18ce2-fa55-4f0d-b88e-7d4144cb0dcb.json
+2024-08-06 15:09:50,178 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/4b1c186d-8bf2-4297-9cbc-f8f00192770b.json
+2024-08-06 15:09:51,812 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/4b475a5f-ea47-4f2f-aea3-d8ba9bd1b6b6.json
+2024-08-06 15:09:54,625 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/4b825576-e9e3-4f7b-a9a7-e0ad91550ea2.json
+2024-08-06 15:09:58,069 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/4ce77fdd-19a8-4037-ac75-4ece0c05d63f.json
+2024-08-06 15:09:59,847 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/4dd5ab8b-f4dd-4d69-9873-745dd8196b94.json
+2024-08-06 15:10:02,232 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0a9aa9-23a4-4607-b6df-41a9950d210f.json
+2024-08-06 15:10:03,926 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0ac036-6fbc-4855-83af-422b950d210f.json
+2024-08-06 15:10:05,708 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0d5bf4-99c8-4f15-9879-22b1950d210f.json
+2024-08-06 15:10:07,792 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0eb192-bf90-4995-9082-fb44950d210f.json
+2024-08-06 15:10:10,597 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0f0f64-4be0-4b9f-b6e3-5e08950d210f.json
+2024-08-06 15:10:12,200 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0f0f70-00bc-498e-9e24-47e3950d210f.json
+2024-08-06 15:10:13,783 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0f0fb1-0b54-4ace-bb7b-429f950d210f.json
+2024-08-06 15:10:15,368 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0066bf-f9bc-478a-afee-4410950d210f.json
+2024-08-06 15:10:17,195 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a015fbc-3218-4ec8-a4e5-4622950d210f.json
+2024-08-06 15:10:19,082 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a02c71a-9144-4f76-96c3-45ec950d210f.json
+2024-08-06 15:10:20,709 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a04081b-1654-407b-80f9-46a9950d210f.json
+2024-08-06 15:10:22,300 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a044ec0-f460-4e39-921e-cda3950d210f.json
+2024-08-06 15:10:24,048 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a044f31-7dec-4bf7-b031-cc6f950d210f.json
+2024-08-06 15:10:25,761 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a044f70-28a8-45a4-b350-cdab950d210f.json
+2024-08-06 15:10:27,347 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a044fae-c0b0-45d4-8f7e-75a9950d210f.json
+2024-08-06 15:10:29,067 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a044feb-cda0-4844-b5f0-2214950d210f.json
+2024-08-06 15:10:30,839 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0451b3-211c-45f2-ac24-403d950d210f.json
+2024-08-06 15:10:32,482 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a0451dc-4468-4b5a-9175-473a950d210f.json
+2024-08-06 15:10:34,070 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a04510c-b2d0-467b-97a3-75a9950d210f.json
+2024-08-06 15:10:35,817 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a045167-9e00-4562-95ea-4f67950d210f.json
+2024-08-06 15:10:37,570 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a04528f-44d8-40d0-bbcb-cd35950d210f.json
+2024-08-06 15:10:39,210 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a05d1d7-5710-44c0-869f-4a52950d210f.json
+2024-08-06 15:10:40,824 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a09aaa3-e7fc-4e3c-acda-cb8d950d210f.json
+2024-08-06 15:10:42,423 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a1e6e1d-4cc0-4ce6-aeba-7e44950d210f.json
+2024-08-06 15:10:44,148 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a1e6038-a088-46ac-95ef-ad9e950d210f.json
+2024-08-06 15:10:46,150 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a2cec1b-7f7c-4e23-bd7f-40be02de0b81.json
+2024-08-06 15:10:47,713 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3a3aca-a210-497a-9715-452c950d210f.json
+2024-08-06 15:10:49,342 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3a59da-9a50-4022-9d47-4999950d210f.json
+2024-08-06 15:10:50,919 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3a297f-95a8-418e-a949-484f950d210f.json
+2024-08-06 15:10:52,530 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3a5914-63e4-40b1-9c49-4ec2950d210f.json
+2024-08-06 15:10:54,099 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3a5924-eddc-4d5c-9d5e-4de7950d210f.json
+2024-08-06 15:10:55,719 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3a8453-087c-4ffc-9385-4162950d210f.json
+2024-08-06 15:10:57,341 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3ac548-eba8-433c-b695-4c6a950d210f.json
+2024-08-06 15:10:58,956 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3b6be0-1924-4671-8829-d895950d210f.json
+2024-08-06 15:11:01,041 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bc0f1-77d4-4152-be44-4d15950d210f.json
+2024-08-06 15:11:02,627 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bc375-9994-4da9-81c8-4ae4950d210f.json
+2024-08-06 15:11:04,208 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bcbe0-3d70-427d-8744-4bdb950d210f.json
+2024-08-06 15:11:06,044 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bd2f3-3360-43cf-a015-404d950d210f.json
+2024-08-06 15:11:07,699 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bd35f-7140-48d0-8b88-4555950d210f.json
+2024-08-06 15:11:09,449 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bd321-a8a4-45a6-b246-445b950d210f.json
+2024-08-06 15:11:11,380 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3bd381-e9b0-43ce-afd2-4ced950d210f.json
+2024-08-06 15:11:12,995 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3c2fcd-8328-42bb-a95e-4f4402de0b81.json
+2024-08-06 15:11:14,885 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3cbdf8-172c-4738-9b96-c31d950d210f.json
+2024-08-06 15:11:16,429 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3cc030-01a4-46c1-b4fd-c5ba950d210f.json
+2024-08-06 15:11:17,999 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3cc2cd-2d2c-4423-ad4d-4c59950d210f.json
+2024-08-06 15:11:19,884 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3cc84d-2434-4ae6-8d76-c328950d210f.json
+2024-08-06 15:11:21,606 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3d03cd-08f0-41bf-89fd-4789950d210f.json
+2024-08-06 15:11:23,234 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/5a3faeda-9524-4a8c-a329-b4d302de0b81.json
+2024-08-06 15:11:40,820 - INFO - Database connection successful.
+2024-08-06 15:11:40,820 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:11:42,017 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:11:42,629 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:11:44,693 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:11:47,201 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:11:49,174 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:11:51,560 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:11:53,123 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/01e8868d-48ae-41aa-8516-ea5a303758b8.json
+2024-08-06 15:11:55,816 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/013585af-ba0a-480a-8f2f-48df896d9229.json
+2024-08-06 15:11:57,431 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0165e5d7-51e6-4c2e-a382-1dd1e706f7bb.json
+2024-08-06 15:11:59,193 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/04e8bb1e-b445-40a6-a68a-1ce85e32d229.json
+2024-08-06 15:12:01,969 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/042a4478-fe19-4ed0-a309-b96da3542a95.json
+2024-08-06 15:12:13,261 - INFO - Database connection successful.
+2024-08-06 15:12:13,261 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:12:14,476 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:12:15,082 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:12:17,144 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:12:19,728 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:12:21,718 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:12:24,007 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:12:25,637 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/01e8868d-48ae-41aa-8516-ea5a303758b8.json
+2024-08-06 15:12:28,205 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/013585af-ba0a-480a-8f2f-48df896d9229.json
+2024-08-06 15:12:29,851 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0165e5d7-51e6-4c2e-a382-1dd1e706f7bb.json
+2024-08-06 15:12:31,585 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/04e8bb1e-b445-40a6-a68a-1ce85e32d229.json
+2024-08-06 15:12:34,641 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/042a4478-fe19-4ed0-a309-b96da3542a95.json
+2024-08-06 15:12:36,753 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/053f26a4-8fac-4733-a114-a6c0bdfd1e1c.json
+2024-08-06 15:12:38,810 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0733f160-8e52-4548-a4c8-19a1cfb41d0d.json
+2024-08-06 15:14:30,041 - INFO - Database connection successful.
+2024-08-06 15:14:30,041 - INFO - Processing URL: https://www.circl.lu/doc/misp/feed-osint/
+2024-08-06 15:14:31,364 - INFO - URL: https://www.circl.lu/doc/misp/feed-osint/, Content-Type: text/html;charset=UTF-8
+2024-08-06 15:14:31,962 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0b988513-9535-42f0-9ebc-5d6aec2e1c79.json
+2024-08-06 15:14:33,976 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0e887f03-5aa2-4a7b-b0f7-66208c6c657b.json
+2024-08-06 15:14:36,448 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0ebe51c2-31f1-4ba4-b7ab-1f5e62531e45.json
+2024-08-06 15:14:38,484 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0f5d36d5-9eda-429f-8c72-bdfaa7b6a750.json
+2024-08-06 15:14:40,748 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0fadc113-6e22-4524-96b1-7b8fc98fa64c.json
+2024-08-06 15:14:42,391 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/01e8868d-48ae-41aa-8516-ea5a303758b8.json
+2024-08-06 15:14:45,522 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/013585af-ba0a-480a-8f2f-48df896d9229.json
+2024-08-06 15:14:47,081 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0165e5d7-51e6-4c2e-a382-1dd1e706f7bb.json
+2024-08-06 15:14:48,836 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/04e8bb1e-b445-40a6-a68a-1ce85e32d229.json
+2024-08-06 15:14:52,036 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/042a4478-fe19-4ed0-a309-b96da3542a95.json
+2024-08-06 15:14:54,302 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/053f26a4-8fac-4733-a114-a6c0bdfd1e1c.json
+2024-08-06 15:14:56,362 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/0733f160-8e52-4548-a4c8-19a1cfb41d0d.json
+2024-08-06 15:14:57,954 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/08af4546-b6e5-4cdc-ab0f-d5290dec8307.json
+2024-08-06 15:14:59,971 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/08c5fe06-4375-4fce-a555-b02352cef2d6.json
+2024-08-06 15:15:01,699 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1b2b6e15-3655-4648-afcb-c93214187736.json
+2024-08-06 15:15:04,814 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1c4e9e86-eff3-485f-aa1d-1bff68101b14.json
+2024-08-06 15:15:06,589 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1d87d97f-b67b-499e-b9c2-3b096c949f81.json
+2024-08-06 15:15:10,215 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/1edd5ee1-7c91-4233-840a-6c419d6afc62.json
+2024-08-06 15:15:12,067 - INFO - Fetching JSON data from link: https://www.circl.lu/doc/misp/feed-osint/2af530f6-7486-4a15-aa87-248d0c0b1e9f.json
